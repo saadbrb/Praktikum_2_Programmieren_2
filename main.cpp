@@ -13,6 +13,7 @@ int main()
 {
 //    PonyhofP objkt("ponys.txt");
     PonyhofP obj;
+    //kleiner test
 
 
     obj.userDialog();
